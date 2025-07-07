@@ -1028,7 +1028,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  3 Series,2016,16750,Semi-Auto,39750,Diesel,165,51.4,3.0
  5 Series,2016,16250,Semi-Auto,43000,Diesel,30,62.8,2.0
  3 Series,2013,11950,Semi-Auto,88000,Diesel,125,57.6,3.0
- l,145,39.8,3.0
  X3,2016,20000,Semi-Auto,34334,Diesel,150,54.3,2.0
  X1,2018,23295,Semi-Auto,11570,Petrol,150,44.8,2.0
  3 Series,2019,25990,Semi-Auto,2980,Diesel,150,57.7,2.0
